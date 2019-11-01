@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 public class MyClass {
     public static void main ( String[] args ) {
-
         Scanner scanner = new Scanner(System.in);
         System.out.println("½Ð¿é¤J¼Æ¦r");
         String s = scanner.next();
